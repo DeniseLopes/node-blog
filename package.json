@@ -16,8 +16,11 @@
   "author": "Denise Lopes",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "body-parser": "^1.19.0",
+    "e": "0.0.4",
     "express": "^4.17.1",
     "nodemon": "^1.19.4"
   }
+ 
 }
