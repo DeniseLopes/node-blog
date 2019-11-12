@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Meu blog usando node.js no backend e react.js no frontend e futuramente usando os serviços do watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "react",
+    "react.js",
+    "watson"
+  ],
+  "author": "Denise Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
